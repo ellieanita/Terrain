@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_kijai_water_simple
+  m_Shader: {fileID: 4800000, guid: d00565620ea441a459d7809698989e81, type: 3}
+  m_ShaderKeywords: _DEPTHFADE_ON _DISPLACEMENTTOGGLE_ON _DISTANCEFADETOGGLE_ON _FADEFROM_WATER_CENTER
+    _KEYWORD0_FROM_CAMERA
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _NormalMap_01:
+        m_Texture: {fileID: 2800000, guid: 81bf2db950be59b4e842a55e5f804b7f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap_02:
+        m_Texture: {fileID: 2800000, guid: 743131242bccd9e4ea0bc40e9d9b9840, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReflectionProbeCubemap:
+        m_Texture: {fileID: 8900000, guid: 89fa195ca67791a47b025726d026b776, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SurfaceNormal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture0:
+        m_Texture: {fileID: 8900000, guid: 89fa195ca67791a47b025726d026b776, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _tex3coord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AlphaCutoff: 0.5
+    - _Depth: 0.119
+    - _DepthDistance: 0.26
+    - _DepthFade: 1
+    - _DisplacementAmplitude: 0.069
+    - _DisplacementFrequency: 0.157
+    - _DisplacementSpeed: 0.36
+    - _DisplacementToggle: 1
+    - _DistanceFade: 316.2
+    - _DistanceFadeHardness: 1
+    - _DistanceFadeToggle: 1
+    - _EdgePower: 0.259
+    - _FadeDistance: 467.4
+    - _FadeFrom: 1
+    - _Float0: -0.73
+    - _Float3: 12
+    - _Float4: 1.04
+    - _FoamScale: 0.2
+    - _FoamToggle: 0
+    - _HighLightDensity: 0.698
+    - _Keyword0: 0
+    - _Metallic: 0.078
+    - _MipLevel1: 0
+    - _MipMapBias: 0
+    - _NormalMapTiling: 101.1
+    - _NormalScale1: 0.1
+    - _NormalSpeed: 0.036
+    - _NormalStrength: 0.274
+    - _Normal_DirectionAngle_01: 19
+    - _Normal_DirectionAngle_02: 80
+    - _Opacity: 0.667
+    - _ProbeRadius: 100
+    - _Radius1: 10
+    - _Refraction: 0
+    - _RefractionStrenght: 0.1
+    - _Smoothness: 0.965
+    - _UVScale1: 1
+    m_Colors:
+    - _Center1: {r: 0, g: 0, b: 0, a: 0}
+    - _Color: {r: 0.32211927, g: 0.48259413, b: 0.8396226, a: 0}
+    - _Color_Deep: {r: 0.031817373, g: 0.12264114, b: 0.11507244, a: 0}
+    - _Color_Shallow: {r: 0, g: 0, b: 0, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Normal_Direction_01: {r: 0.10215044, g: 0.16397826, b: 0, a: 0}
+    - _Normal_Direction_02: {r: 0.10483872, g: 0.17204303, b: 0, a: 0}
+    - _ProbeLocation: {r: 23, g: -16.9, b: 0, a: 0}
+  m_BuildTextureStacks: []
