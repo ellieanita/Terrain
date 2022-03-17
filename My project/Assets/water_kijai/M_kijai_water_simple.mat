@@ -64,29 +64,29 @@ Material:
     - _Float4: 1.04
     - _FoamScale: 0.2
     - _FoamToggle: 0
-    - _HighLightDensity: 0.698
+    - _HighLightDensity: 0.804
     - _Keyword0: 0
     - _Metallic: 0.078
     - _MipLevel1: 0
     - _MipMapBias: 0
-    - _NormalMapTiling: 101.1
+    - _NormalMapTiling: 102.4
     - _NormalScale1: 0.1
     - _NormalSpeed: 0.036
-    - _NormalStrength: 0.274
+    - _NormalStrength: 0.348
     - _Normal_DirectionAngle_01: 19
-    - _Normal_DirectionAngle_02: 80
-    - _Opacity: 0.667
+    - _Normal_DirectionAngle_02: 98
+    - _Opacity: 0.944
     - _ProbeRadius: 100
     - _Radius1: 10
     - _Refraction: 0
-    - _RefractionStrenght: 0.1
+    - _RefractionStrenght: 1.8
     - _Smoothness: 0.965
     - _UVScale1: 1
     m_Colors:
     - _Center1: {r: 0, g: 0, b: 0, a: 0}
     - _Color: {r: 0.32211927, g: 0.48259413, b: 0.8396226, a: 0}
-    - _Color_Deep: {r: 0.031817373, g: 0.12264114, b: 0.11507244, a: 0}
-    - _Color_Shallow: {r: 0, g: 0, b: 0, a: 0}
+    - _Color_Deep: {r: 0.009077947, g: 0.56294644, b: 0.6415094, a: 0}
+    - _Color_Shallow: {r: 0, g: 0.22343598, b: 0.2830189, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _Normal_Direction_01: {r: 0.10215044, g: 0.16397826, b: 0, a: 0}
     - _Normal_Direction_02: {r: 0.10483872, g: 0.17204303, b: 0, a: 0}
